@@ -1,7 +1,7 @@
 # Temporal Deepfake Detection using Optical Flow and Facial Dynamics
 
 ### Author: Sunny Raj
-### Date: 20 Apr. 2025
+### Date: 21 Apr. 2025
 
 ---
 
