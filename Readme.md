@@ -1,7 +1,7 @@
 # Temporal Deepfake Detection using Optical Flow and Facial Dynamics
 
-### Author: Sunny  
-### Date: 20/04/2025
+### Author: Sunny Raj
+### Date: 20 Apr. 2025
 
 ---
 
@@ -46,7 +46,7 @@ To develop a deepfake detection prototype that:
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - Frames are extracted from videos and converted to grayscale.
